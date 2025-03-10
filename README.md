@@ -22,6 +22,20 @@ error recovery;it is easier to revert to the previous version
 collaboration ;developers can work in different in different features without overriding changes .
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+In the upper-right corner of any page, select , then click New repository.
+Type a  name for your repository. For example, "my dress my".
+Optionally, add a description of your repository.
+Choose a repository visibility.either public or private
+Select Initialize this repository with a README.
+Click Create repository.
+
+Key Decisions When Setting Up a Repository;
+private or public;do you want the respository open to everyone or just the team
+Choose a License – Determines how others can use your code.
+Use a .gitignore? – Helps keep unnecessary files out of version control.
+Initialize with README? – Useful for documentation but can be added later.
+
+
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
