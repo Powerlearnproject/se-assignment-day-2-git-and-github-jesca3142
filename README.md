@@ -2,6 +2,24 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18575630&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+version control is a system that allows multiple users to make changes in files in order to collaborate efficiently and also they can revert back to the previous version if need be.
+Fundamental cocepts of version control are;
+Repository (Repo) – A centrol  location where all files and version histories are stored.
+Commit – A snapshot of changes made to the repository.
+Branching – Creating separate version of the project to work on new features without affecting the main project.
+Merging – Combining changes from different branches into the main codebase.
+Pull Request (PR) – it is a  request that is made  to reviewing and merging of  codes from one branch into another.
+Conflict Resolution –  resolving changes when multiple developers  edit the same file.
+Why GitHub is a Popular Version Control Tool 
+Collaboration Features –enables developers to work together 
+Backup & Cloud Storage – Ensures that the codes are stored safely and accesible from eveywhere
+Integration with CI/CD – Supports automation tools for testing and deployment.
+Open Source & Community – Hosts alot of open-source projects and makes it easy for  developers to contribute.
+Security & Access Control – protects sensisitive codes.
+How Version Control Maintains Project Integrity;
+accoutability;shows who made changes
+error recovery;it is easier to revert to the previous version
+collaboration ;developers can work in different in different features without overriding changes .
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
