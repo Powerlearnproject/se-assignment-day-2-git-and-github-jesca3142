@@ -69,7 +69,19 @@ it has paid plans
 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project commit
-a commit is a summary of changes made to a project at a
+A commit is a summary of changes made to a project at a specific time.
+The steps involved in making my first commit are;
+Under the readme-edits branch  created, click the README.md file.
+edit the file, click the edit button.
+Click Commit changes.
+In the "Commit changes" box, write a commit message to describes your changes.
+Click Commit changes.
+
+How do commit help in tracking changes and managing different versions of your project commit;
+It helps in tracking changes done over time
+multiple developers can work together without overriding each other.
+differrent features can be made in different branches then merged together.
+commit messsages are useful in ensuring that the project evolution is tracked easly.
 
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
