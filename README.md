@@ -101,11 +101,22 @@ once complete merge the branch to the main
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 Pull request allows developers to review and discuss changes before merging them into the main branch
+
 How do pull request facilitate code review and collaboration;
 It allows team memebers to review codes inorder to maintain good standards.
 Developers can discuss changes and agree on solution  before merging in the main branch.
 Pull request makes a documentation of the changes made which will be useful in future.
 pull request prevents bags by ensuaring that changes are tested  in isolation branches before joining them to the main branch
+
+what are the typical steps involved in creating and merging a pull request
+create a branch
+commit the changes
+push the branch to the respository of your choice
+under the repository click pull request
+approve and review the pull request 
+ Click Confirm merge, Confirm squash and merge, or Confirm rebase and merge.
+ delete the branch.
+
 
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
