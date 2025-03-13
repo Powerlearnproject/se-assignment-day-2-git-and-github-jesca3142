@@ -145,7 +145,40 @@ Scalability: Works for small teams or large open-source projects.
 
 examples of how these tools can enhance collaborative efforts;
 in project board tasks can be categorised in to do,in progress and done.
+examole of an issue on GitHub
+the user reports the problem (cant login to netflix)
+the issue is labled and asigned
+the developer works on the issue
+reviw the code and merge(pull request and merge with the main branch)
+communicate resolution(the log in issue is resolved).
 
 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+
+ Common challenges and strategies on how to overcome them, that are  associated with using GitHub for version control;
+1. Commiting sensitive files
+   this can be solved by using gitignore file to exclude sensitive files.
+ 2.Making several changes GitHub being unble to identify which version to keep
+   it can be solved by pulling updates from the main branch
+3. Not creating a branch and working on the main branch can cause instability of the codes
+   this can be resolved by ensuaring a branch is always created.
+ 4. Not writing clear commit messages
+Follow a clear and well understood commit message.
+
+ Best practices associated with using GitHub for version control;
+keeps the repository organized
+reviews codes before merging
+uses branching strategies
+
+
+
+
+
+
+
+
+
+
+
+
